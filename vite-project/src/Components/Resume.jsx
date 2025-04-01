@@ -3,7 +3,7 @@ import resume from '../assets/resume.svg'
 
 function Resume() {
   const config ={
-    link:"https://in.docworkspace.com/d/sIF_VzZeEAsqUrr8G"
+    link:"https://www.canva.com/design/DAGjAQT_yLk/OcWiZX3-MIe0ozmbNrJoFQ/view?utm_content=DAGjAQT_yLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he284c2e3dd"
   }
   return (
     <section className='flex flex-col md:flex-row bg-black text-white pt-10 px-5' id='resume'>
