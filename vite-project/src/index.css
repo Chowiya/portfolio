@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+header ul li {
+  @apply px-2
+}
+
+.bg-primary{
+  background-color: rgb(85 81 227) ;
+}
+.bg-secondary{
+  background-color: #2b2d77;
+}
+
+.mobile-nav{
+  @apply fixed top-10 left-0 bg-gray-600 w-full h-1/4
+}
+
+.project-desc{
+  @apply absolute left-0 right-0 bottom-0 top-0 bg-black opacity-0 duration-500 hover:opacity-100;
+}
+.btn{
+  @apply bg-amber-500 px-5 py-2 font-bold  text-black hover:border-2 border-amber-50 rounded
+}
+
+html{
+  scroll-behavior: smooth;
+}
+.headerBtn{
+  @apply bg-transparent border border-amber-500 text-amber-500 font-semibold px-6 rounded-lg shadow-lg hover:bg-amber-500 hover:text-black transition-all duration-300
+}
