@@ -36,8 +36,8 @@ function Hero() {
           <a href="#project" className="bg-amber-500 text-black font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-amber-600 transition-all duration-300">
             View My Work
           </a>
-          <a href="mailto:chowiya6@gmail.com?subject=Hiring%20Opportunity" className="bg-transparent border border-amber-500 text-amber-500 font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-amber-500 hover:text-black transition-all duration-300">
-            Hire Me
+          <a target="blank" href="https://www.canva.com/design/DAGjAQT_yLk/OcWiZX3-MIe0ozmbNrJoFQ/view?utm_content=DAGjAQT_yLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he284c2e3dd" className="bg-transparent border border-amber-500 text-amber-500 font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-amber-500 hover:text-black transition-all duration-300">
+           View Resume
           </a>
         </div>
       </div>

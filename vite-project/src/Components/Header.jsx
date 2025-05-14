@@ -13,7 +13,6 @@ function Header() {
         <li><a href='/' className='hover:text-amber-600'>Home</a></li>
         <li><a href='#about' className='hover:text-amber-600'>About</a></li>
         <li><a href='#project' className='hover:text-amber-600'>Project</a></li>
-        <li><a href='#resume' className='hover:text-amber-600'>Resume</a></li>
         <li><a href='#contact' className='hover:text-amber-600'>Contact</a></li>
      </ul>
 
@@ -24,7 +23,6 @@ function Header() {
         <li><a href='/' className='border-b-2 '>Home</a></li>
         <li><a href='#about' className='border-b-2'>About</a></li>
         <li><a href='#project' className='border-b-2'>Project</a></li>
-        <li><a href='#resume' className='border-b-2'>Resume</a></li>
         <li><a href='#contact' className='border-b-2'>Contact</a></li>
      </ul>
 
